@@ -148,3 +148,17 @@ const App = () => {
 
 export default App;
 ```
+
+# 레이아웃 구성
+
+- src/layouts/MainLayout.js
+- src/outlines/Header.js
+- src/outlines/Footer.js
+
+# 라우팅 구성
+## 회원
+- /member/join 회원가입
+- /member/login 로그인
+
+# 없는 페이지
+- * : 없는 페이지 - commons/pages/NotFound.js
